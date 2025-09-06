@@ -6,13 +6,18 @@
   </a>
 </p>
 
-### 🚀 Currently working on
-- Developing fullstack apps  
-- Learning Spring Boot  
-- Exploring Sequelize & Docker  
-- Process analysis & requirements engineering  
-- Agile methodologies & SDLC (Software Development Life Cycle)  
-- Software quality & decision analysis  
+<p align="left">
+  <strong>🚀 Currently working on</strong><br>
+  - Developing fullstack apps<br>
+  - Learning Spring Boot<br>
+  - Exploring Sequelize & Docker<br>
+  - Process analysis & requirements engineering<br>
+  - Agile methodologies & SDLC<br>
+  - Software quality & decision analysis
+  <img src="[https://user-images.githubusercontent.com/XXXXXX/tu-kirby.gif](https://private-user-images.githubusercontent.com/111092169/486430231-428103cb-7647-4fbb-94a2-5a20e2dd474c.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTcxNzE1MTQsIm5iZiI6MTc1NzE3MTIxNCwicGF0aCI6Ii8xMTEwOTIxNjkvNDg2NDMwMjMxLTQyODEwM2NiLTc2NDctNGZiYi05NGEyLTVhMjBlMmRkNDc0Yy5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkwNlQxNTA2NTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NzU0OThkMDc3ZTRjOWU1NWZhZWU5NGMxMDBjMmUwZGFkMmNkZjcxNzMyNTA2NDdiZjIxOTBmYTg3MDBiNjBkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.e6IED3Oj4sQVgve597r_4ZoBJzcaQxWwpWb5uXdhhQI)" 
+       alt="kirby" width="110" 
+       style="vertical-align:middle; margin-left:16px;">
+</p>
 
 ---
 

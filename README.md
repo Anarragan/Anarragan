@@ -39,13 +39,6 @@ I’m not only a developer — I’m a **Systems and Computing Engineering stude
 
 🎓 My university studies give me a **deep theoretical base**, while Riwi complements it with **hands-on development and teamwork experience**.  
 
-
-### 🚀 Sobre mí
-- 🎓 Estudiante de Ingeniería de Sistemas en la Nacho  
-- 💻 Coder en formación en Riwi  
-- 🌱 Aprendiendo a crear SPAs, consumir APIs y armar proyectos fullstack  
-- 🐞 Amiga de los bugs (pero solo para arreglarlos)  
-
 ---
 
 ### 🛠️ Tecnologías y herramientas

@@ -18,7 +18,13 @@ I’m also strengthening my skills in **Java**, **React + TypeScript**, and **No
 Beyond coding, my studies provide a **solid foundation in mathematics and systems engineering**, while Riwi brings **hands-on teamwork and agile development experience**. I see myself as a **critical thinker**, focused on **quality, optimization, and innovative solutions**.   
 
 ---
-# 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
+# 💻 Tech Stack 
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
+
+<!-- Patito caminante -->
+<img src="./assets/Cute-walking-duck.gif" width="80" align="left" />
+
+<br>
 
 <p align="center">
   <!-- Frontend -->
@@ -34,8 +40,6 @@ Beyond coding, my studies provide a **solid foundation in mathematics and system
   <!-- Tools & Deployment -->
   <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,railway" style="margin: 15px;" />
 </p>
-
-
 
 ### 📌 Proyectos destacados
 - 🌤️ [App del Clima](https://github.com/tuusuario/app-clima)  

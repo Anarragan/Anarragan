@@ -39,24 +39,24 @@ Beyond coding, my studies provide a **solid foundation in mathematics and system
 
 ---
 
-<img src="./assets/chickenProgramer.gif" width="300" align="left" />
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Featured Projects***
 
-### 🌟 Featured Projects  
+<img src="./assets/chickenProgramer.gif" alt="chicken" width="270" align="left">
 
-**🔹 Live & Deployed**  
-[Stack4Us](https://stack4-us-qakt.vercel.app/about.html)  
-Fully deployed web app with **authentication**, **Q&A posting**,  
-**answer rating**, and a **leaderboard**.  
+I’m working on several projects that span **fullstack development**, **AI experiments**, and **productivity tools**.  
 
-**🔹 In Development**  
-- Habit & Routine Manager — productivity app to track goals and habits.  
-- Chat Application (MERN Stack) — real-time messaging with authentication.  
+**Live & Deployed:**  
+[Stack4Us](https://stack4-us-qakt.vercel.app/about.html) — fully deployed web app with **authentication**, **Q&A posting**, **answer rating**, and a **leaderboard**, integrated with the **Stack Overflow API**.  
 
-**🔹 Coming Soon**  
-- AI Microservices Project — Spring Boot + ML APIs.  
-- Smart Email Assistant — Spring Boot + NLP.  
-- AI Content Generator — summaries, blogs, multimedia.  
-- AI-Powered Chatbot — customer interaction + recommendations.  
+**In Development:**  
+**Habit & Routine Manager** — productivity-focused web app to track goals and habits.  
+**Chat Application (MERN Stack)** — real-time messaging with **authentication** and persistent storage.  
+
+**Coming Soon — AI & Advanced Projects:**  
+**AI Microservices Project** — Spring Boot + ML APIs.  
+**Smart Email Assistant** — Spring Boot + NLP automation.  
+**AI Content Generator** — summaries, blogs, multimedia creation.  
+**AI-Powered Chatbot** — customer interaction + recommendations.  
 
 
 ---

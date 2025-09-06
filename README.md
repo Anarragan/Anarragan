@@ -10,18 +10,18 @@
 
 <img src="./assets/kirbi1.gif" alt="kirby" width="270" align="right">
 
-I’m a **Systems and Computing Engineering student** passionate about building, learning, and solving problems.  
-Currently, I’m **developing fullstack applications**, exploring **Spring Boot**, and diving deeper into **Sequelize** and **Docker** while applying **process analysis**, **requirements engineering**, and **Agile methodologies** in real projects.  
+I’m a **Systems and Computing Engineering student** passionate about **building, learning, and solving problems**.  
+Currently, I’m working on **fullstack applications**, exploring **Spring Boot**, **Sequelize**, and **Docker**, while applying **process analysis**, **requirements engineering**, and **Agile practices** in real projects.  
 
-At the same time, I’m sharpening my skills in **advanced Java**, **React + TypeScript**, and **Node.js with Express**, while expanding my knowledge of **databases** like **Supabase, PostgreSQL, and MySQL**. I also enjoy applying **statistics** and **data analysis** to uncover insights that improve decision-making.  
+I’m also strengthening my skills in **Java**, **React + TypeScript**, and **Node.js with Express**, and expanding my knowledge of **databases** like **Supabase, PostgreSQL, and MySQL**. I enjoy applying **statistics** and **data analysis** to improve decision-making.  
 
-Beyond coding, my studies give me a **solid foundation in mathematics, statistics, and system modeling**, while Riwi complements this with **hands-on teamwork and agile development experience**. I see myself as a **critical thinker**, always seeking to **optimize resources**, **ensure software quality**, and **find innovative solutions**.  
+Beyond coding, my studies provide a **solid foundation in mathematics and systems engineering**, while Riwi brings **hands-on teamwork and agile development experience**. I see myself as a **critical thinker**, focused on **quality, optimization, and innovative solutions**.   
 
 ---
 
 ### 🛠️ Tecnologías y herramientas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,nodejs,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,nodejs,git,github,springboot,postgres" />
 </p>
 
 ---

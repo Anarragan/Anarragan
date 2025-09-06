@@ -40,27 +40,39 @@ Beyond coding, my studies provide a **solid foundation in mathematics and system
 ---
 ### 🌟 Featured Projects  
 
-<img src="./assets/chickenProgramer.gif" align="left" width="150" style="margin-right: 20px;" />
+<table>
+  <tr>
+    <!-- Columna izquierda con el pollito -->
+    <td width="160px" align="center" valign="top">
+      <img src="./assets/chickenProgramer.gif" width="140" />
+    </td>
+    
+    <!-- Columna derecha con los proyectos -->
+    <td valign="top">
+      <h4>🔹 <b>Live & Deployed</b></h4>
+      <p>
+        <a href="https://stack4-us-qakt.vercel.app/about.html"><b>Stack4Us</b></a><br>
+        Fully deployed web app with <b>authentication</b>, <b>Q&A posting</b>, 
+        <b>answer rating</b>, and a <b>leaderboard</b>.  
+        Integrated with the <b>Stack Overflow API</b>.
+      </p>
 
----
+      <h4>🔹 <b>In Development</b></h4>
+      <ul>
+        <li><b>Habit & Routine Manager</b> — productivity app to track goals and habits.</li>
+        <li><b>Chat Application (MERN Stack)</b> — real-time messaging with authentication and persistent storage.</li>
+      </ul>
 
-#### 🔹 **Live & Deployed**  
-[**Stack4Us**](https://stack4-us-qakt.vercel.app/about.html)  
-A fully deployed web application with **user authentication**, where you can **post questions, receive answers**, and **rate responses**. Includes a **leaderboard system** and integration with the **Stack Overflow API**.  
-
----
-
-#### 🔹 **In Development**  
-- **Habit & Routine Manager** — a productivity app designed to help users **set goals, track habits, and stay consistent**.  
-- **Chat Application (MERN Stack)** — a real-time messaging platform with **secure authentication** and **persistent data storage**.  
-
----
-
-#### 🔹 **Coming Soon — AI & Advanced Projects**  
-- **AI Microservices Project** — modular microservices with **Spring Boot** and **machine learning APIs**.  
-- **Smart Email Assistant** — automated email handling using **Spring Boot + NLP**.  
-- **AI Content Generator** — creating text, summaries, and multimedia with **AI models**.  
-- **AI-Powered Chatbot** — intelligent chatbot for **customer interaction and smart recommendations**.  
+      <h4>🔹 <b>Coming Soon — AI & Advanced Projects</b></h4>
+      <ul>
+        <li><b>AI Microservices Project</b> — Spring Boot + ML APIs.</li>
+        <li><b>Smart Email Assistant</b> — automation with Spring Boot + NLP.</li>
+        <li><b>AI Content Generator</b> — summaries, blogs, multimedia.</li>
+        <li><b>AI-Powered Chatbot</b> — customer interaction + recommendations.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 

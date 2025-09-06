@@ -43,21 +43,20 @@ Beyond coding, my studies provide a **solid foundation in mathematics and system
 
 <img src="./assets/chickenProgramer.gif" alt="chicken" width="270" align="left">
 
-I’m working on several projects that span **fullstack development**, **AI experiments**, and **productivity tools**.  
+I’m working on projects that explore **fullstack development**, **AI**, and **productivity tools**.  
 
 **Live & Deployed:**  
-[Stack4Us](https://stack4-us-qakt.vercel.app/about.html) — fully deployed web app with **authentication**, **Q&A posting**, **answer rating**, and a **leaderboard**, integrated with the **Stack Overflow API**.  
+[Stack4Us](https://stack4-us-qakt.vercel.app/about.html) — fully deployed web app with **authentication**, **Q&A**, and a **leaderboard**.  
 
 **In Development:**  
-**Habit & Routine Manager** — productivity-focused web app to track goals and habits.  
-**Chat Application (MERN Stack)** — real-time messaging with **authentication** and persistent storage.  
+**Habit & Routine Manager** — track goals and habits.  
+**Chat Application (MERN Stack)** — real-time messaging with auth and storage.  
 
 **Coming Soon — AI & Advanced Projects:**  
 **AI Microservices Project** — Spring Boot + ML APIs.  
 **Smart Email Assistant** — Spring Boot + NLP automation.  
-**AI Content Generator** — summaries, blogs, multimedia creation.  
+**AI Content Generator** — summaries and multimedia.  
 **AI-Powered Chatbot** — customer interaction + recommendations.  
-
 
 ---
 

@@ -2,10 +2,9 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=100&lines=Hola!+Soy+Ana+Barragán;Estudiante+de+Ingeniería+en+la+Nacho;Coder+en+Riwi;Amiga+de+los+bugs+%F0%9F%90%9E;Sobreviviendo+con+café+y+amigos+%E2%98%95;Construyendo+mi+camino+fullstack+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&height=60&lines=Systems+Engineering+student+%40+UNAL;Coder+%40+Riwi;Learning+Java+Spring+Boot%2C+Node.js+%26+React;Agile+mindset+%2B+Data+analysis;Fueled+by+coffee+%26+good+vibes" alt="Typing SVG" />
   </a>
 </p>
-
 ---
 
 ### 🚀 Sobre mí

@@ -18,17 +18,11 @@ I’m also strengthening my skills in **Java**, **React + TypeScript**, and **No
 Beyond coding, my studies provide a **solid foundation in mathematics and systems engineering**, while Riwi brings **hands-on teamwork and agile development experience**. I see myself as a **critical thinker**, focused on **quality, optimization, and innovative solutions**.   
 
 ---
-# 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
-<p align="left">
-  <!-- Skillicons -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,nodejs,git,github,spring,postgres" style="margin-right: 10px;" />
-  
-  <!-- Extra icons con espacio -->
-  <img src="https://www.r-project.org/logo/Rlogo.png" width="40" alt="R" style="margin-right: 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" alt="Matlab" style="margin-right: 10px;" />
-  <img src="https://www.simul8.com/favicon.ico" width="45" alt="Simul8" style="margin-right: 10px;" />
-</p>
+# 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,nodejs,react,typescript,git,github,spring,postgres,docker" />
+</p>
 ---
 
 ### 📌 Proyectos destacados

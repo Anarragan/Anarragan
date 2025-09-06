@@ -39,6 +39,8 @@ Beyond coding, my studies provide a **solid foundation in mathematics and system
 
 ### Featured Projects  
 
+<img src="./assets/chickenProgramer.gif" align="left">
+
 #### Live & Deployed  
 - [Login & Security App](https://stack4-us-qakt.vercel.app/about.html)  
   Web application with full authentication, session handling, and 100% deployment on Vercel.  

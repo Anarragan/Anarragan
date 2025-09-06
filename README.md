@@ -33,7 +33,7 @@ Beyond coding, my studies provide a **solid foundation in mathematics and system
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" align="center">Statistics
 
-<img src="./assets/chickenProgramer.gif" alt="chicken" width="300" align="right">
+<img src="./assets/chickenProgramer.gif" alt="chicken" width="350" align="right">
 
 <br/>
 <p align="center">

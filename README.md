@@ -36,13 +36,14 @@ Beyond coding, my studies provide a **solid foundation in mathematics and system
 <img src="./assets/chickenProgramer.gif" alt="chicken" width="300" align="right">
 
 <br/>
-<p align="left">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
+<p align="center">
+  <a href="https://github.com/Anarragan">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Anarragan&show_icons=true&theme=radical&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anarragan&theme=radical&hide_border=true" />
   </a>
 </p>
 <br>
+
 ---
 
 ### Connect with me

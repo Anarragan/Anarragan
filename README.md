@@ -38,24 +38,29 @@ Beyond coding, my studies provide a **solid foundation in mathematics and system
 </p>
 
 ---
+### 🌟 Featured Projects  
 
-### Featured Projects  
+<img src="./assets/chickenProgramer.gif" align="left" width="150" style="margin-right: 20px;" />
 
-<img src="./assets/chickenProgramer.gif" align="left" width="120" style="margin-right: 15px;" />
+---
 
-#### Live & Deployed  
-[Stack4Us](https://stack4-us-qakt.vercel.app/about.html)  
-A wenapplication with authentication, you can post and recive answers from other users, also rating the answer and see the results on a leader board, includes an api from stack overflow 
+#### 🔹 **Live & Deployed**  
+[**Stack4Us**](https://stack4-us-qakt.vercel.app/about.html)  
+A fully deployed web application with **user authentication**, where you can **post questions, receive answers**, and **rate responses**. Includes a **leaderboard system** and integration with the **Stack Overflow API**.  
 
-#### In Development  
-Habit & Routine Manager — a productivity-focused web app to track goals and habits.  
-Chat Application (MERN Stack) — real-time messaging platform with authentication and persistent storage.  
+---
 
-#### Coming Soon — AI & Advanced Projects  
-AI Microservices Project (Spring Boot + ML APIs).  
-Smart Email Assistant (Spring Boot + NLP for automation).  
-AI Content Generator (text and multimedia creation).  
-AI-Powered Chatbot for small businesses (customer interaction + recommendations).  
+#### 🔹 **In Development**  
+- **Habit & Routine Manager** — a productivity app designed to help users **set goals, track habits, and stay consistent**.  
+- **Chat Application (MERN Stack)** — a real-time messaging platform with **secure authentication** and **persistent data storage**.  
+
+---
+
+#### 🔹 **Coming Soon — AI & Advanced Projects**  
+- **AI Microservices Project** — modular microservices with **Spring Boot** and **machine learning APIs**.  
+- **Smart Email Assistant** — automated email handling using **Spring Boot + NLP**.  
+- **AI Content Generator** — creating text, summaries, and multimedia with **AI models**.  
+- **AI-Powered Chatbot** — intelligent chatbot for **customer interaction and smart recommendations**.  
 
 ---
 

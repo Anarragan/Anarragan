@@ -41,7 +41,7 @@ Beyond coding, my studies provide a **solid foundation in mathematics and system
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Featured Projects***
 
-<img src="./assets/chickenProgramer.gif" alt="chicken" width="270" align="left">
+<img src="./assets/chickenProgramer.gif" alt="chicken" width="300" align="left">
 
 I’m working on projects that explore **fullstack development**, **AI**, and **productivity tools**.  
 

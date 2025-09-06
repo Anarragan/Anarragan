@@ -6,6 +6,39 @@
   </a>
 </p>
 ---
+### 🚀 Currently working on
+- Developing fullstack apps  
+- Learning Spring Boot  
+- Exploring Sequelize & Docker  
+- Process analysis & requirements engineering  
+- Agile methodologies & SDLC (Software Development Life Cycle)  
+- Software quality & decision analysis  
+
+---
+
+### 📚 Currently learning
+- Advanced Java + Spring Boot  
+- Modern front-end with React & TypeScript  
+- Backend with Node.js & Express  
+- Databases (Supabase, PostgreSQL, MySQL)  
+- Docker & containerized applications  
+- Applied statistics & data analysis
+
+---
+
+### 🧩 Beyond coding: Systems Engineering in progress  
+
+I’m not only a developer — I’m a **Systems and Computing Engineering student** building strong foundations in:  
+
+- 📐 Advanced mathematics & calculus  
+- 📊 Statistics & data analysis  
+- 🔍 Requirements elicitation & process analysis  
+- ⚙️ Software quality & resource optimization  
+- 🔄 Software Development Life Cycle (SDLC)  
+- 🚀 Agile methodologies applied in Riwi projects  
+
+🎓 My university studies give me a **deep theoretical base**, while Riwi complements it with **hands-on development and teamwork experience**.  
+
 
 ### 🚀 Sobre mí
 - 🎓 Estudiante de Ingeniería de Sistemas en la Nacho  

@@ -39,7 +39,7 @@ Beyond coding, my studies provide a **solid foundation in mathematics and system
 
 ---
 
-<img src="./assets/chickenProgramer.gif" width="120" align="left" />
+<img src="./assets/chickenProgramer.gif" width="270" align="left" />
 
 ### 🌟 Featured Projects  
 

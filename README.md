@@ -38,13 +38,14 @@ Beyond coding, my studies provide a **solid foundation in mathematics and system
 </p>
 
 ---
+
 ### 🌟 Featured Projects  
 
 <table>
   <tr>
     <!-- Columna izquierda con el pollito -->
-    <td width="160px" align="center" valign="top">
-      <img src="./assets/chickenProgramer.gif" width="140" />
+    <td width="180px" align="center" valign="top">
+      <img src="./assets/chickenProgramer.gif" width="140" alt="Chicken Programmer"/>
     </td>
     
     <!-- Columna derecha con los proyectos -->
@@ -73,6 +74,7 @@ Beyond coding, my studies provide a **solid foundation in mathematics and system
     </td>
   </tr>
 </table>
+
 
 ---
 

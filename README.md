@@ -6,9 +6,9 @@
   </a>
 </p>
 
-## 👩‍💻 About Me
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-<img src="./assets/kirbi1.gif" alt="kirby" width="220" align="right">
+<img src="./assets/kirbi1.gif" alt="kirby" width="270" align="right">
 
 I’m a **Systems and Computing Engineering student** passionate about building, learning, and solving problems.  
 Currently, I’m **developing fullstack applications**, exploring **Spring Boot**, and diving deeper into **Sequelize** and **Docker** while applying **process analysis**, **requirements engineering**, and **Agile methodologies** in real projects.  

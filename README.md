@@ -37,24 +37,26 @@ Beyond coding, my studies provide a **solid foundation in mathematics and system
   <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,railway" style="margin: 15px;" />
 </p>
 
+---
+
 ### Featured Projects  
 
-<img src="./assets/chickenProgramer.gif" align="left">
+<img src="./assets/chickenProgramer.gif" align="left" width="120" style="margin-right: 15px;" />
 
 #### Live & Deployed  
-- [Login & Security App](https://stack4-us-qakt.vercel.app/about.html)  
-  Web application with full authentication, session handling, and 100% deployment on Vercel.  
+[Stack4Us](https://stack4-us-qakt.vercel.app/about.html)  
+A wenapplication with authentication, you can post and recive answers from other users, also rating the answer and see the results on a leader board, includes an api from stack overflow 
 
 #### In Development  
-- Habit & Routine Manager — productivity web app to track goals and habits.  
-- Chat Application (MERN Stack) — real-time messaging with authentication and database integration.    
- 
-#### Coming Soon (AI & Advanced Projects)  
-- AI Microservices Project (Spring Boot + ML APIs).  
-- Smart Email Assistant (Spring Boot + NLP for automation).  
-- AI Content Generator (summaries, blog drafts, or multimedia creation).  
-- AI-Powered Chatbot for small businesses (customer interaction + recommendations).  
-  
+Habit & Routine Manager — a productivity-focused web app to track goals and habits.  
+Chat Application (MERN Stack) — real-time messaging platform with authentication and persistent storage.  
+
+#### Coming Soon — AI & Advanced Projects  
+AI Microservices Project (Spring Boot + ML APIs).  
+Smart Email Assistant (Spring Boot + NLP for automation).  
+AI Content Generator (text and multimedia creation).  
+AI-Powered Chatbot for small businesses (customer interaction + recommendations).  
+
 ---
 
 ### 📫 Conéctate conmigo

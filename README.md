@@ -8,48 +8,25 @@
 
 ## 👩‍💻 About Me
 
-<div align="left">
+<div align="left" style="display: flex; justify-content: space-between;">
 
-  <div style="display: flex; align-items: flex-start; justify-content: space-between;">
+<div>
 
-  <div>
+I’m a **Systems and Computing Engineering student** passionate about building, learning, and solving problems.  
+Currently, I’m **developing fullstack applications**, exploring **Spring Boot**, and diving deeper into **Sequelize** and **Docker** while applying **process analysis**, **requirements engineering**, and **Agile methodologies** in real projects.  
 
-  ### 🚀 Currently working on  
-  - Developing fullstack apps  
-  - Learning Spring Boot  
-  - Exploring Sequelize & Docker  
-  - Process analysis & requirements engineering  
-  - Agile methodologies & SDLC  
-  - Software quality & decision analysis  
+At the same time, I’m sharpening my skills in **advanced Java**, **React + TypeScript**, and **Node.js with Express**, while expanding my knowledge of **databases** like **Supabase, PostgreSQL, and MySQL**. I also enjoy applying **statistics** and **data analysis** to uncover insights that improve decision-making.  
 
-  ### 📚 Currently learning  
-  - Advanced Java + Spring Boot  
-  - Modern front-end with React & TypeScript  
-  - Backend with Node.js & Express  
-  - Databases (Supabase, PostgreSQL, MySQL)  
-  - Docker & containerized applications  
-  - Applied statistics & data analysis  
+Beyond coding, my studies give me a **solid foundation in mathematics, statistics, and system modeling**, while Riwi complements this with **hands-on teamwork and agile development experience**. I see myself as a **critical thinker**, always seeking to **optimize resources**, **ensure software quality**, and **find innovative solutions**.  
 
-  ### 🧩 Beyond coding: Systems Engineering in progress  
-  I’m not only a developer — I’m a **Systems and Computing Engineering student** building strong foundations in:  
-
-  - 📐 Advanced mathematics & calculus  
-  - 📊 Statistics & data analysis  
-  - 🔍 Requirements elicitation & process analysis  
-  - ⚙️ Software quality & resource optimization  
-  - 🔄 Software Development Life Cycle (SDLC)  
-  - 🚀 Agile methodologies applied in Riwi projects  
-
-  🎓 My university studies give me a **deep theoretical base**, while Riwi complements it with **hands-on development and teamwork experience**.  
-
-  </div>
-
-  <div>
-    <img src="./assets/kirbi1.gif" alt="kirby" width="200" style="margin-left: 30px;">
-  </div>
-
-  </div>
 </div>
+
+<div>
+  <img src="./assets/kirbi1.gif" alt="kirby" width="220" style="margin-left: 30px;">
+</div>
+
+</div>
+
 ---
 
 ### 🛠️ Tecnologías y herramientas

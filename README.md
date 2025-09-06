@@ -1,3 +1,7 @@
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+
 <h1 align="center"><b>Hi , I'm Ana Barragan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
@@ -27,23 +31,18 @@ Beyond coding, my studies provide a **solid foundation in mathematics and system
 
 ---
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" align="center">Featured Projects
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" align="center">Statistics
 
 <img src="./assets/chickenProgramer.gif" alt="chicken" width="300" align="right">
 
-I’m working on projects that explore **fullstack development**, **AI**, and **productivity tools**.  
-
-### Live & Deployed:  
--[Stack4Us](https://stack4-us-qakt.vercel.app/about.html) — fully deployed web app with **authentication**, **Q&A**, and a **leaderboard**.  
-
-### In Development:  
--**Habit & Routine Manager** — track goals and habits.  
--**Chat Application (MERN Stack)** — real-time messaging with auth and storage.  
-
-### Coming Soon — AI & Advanced Projects:  
--**AI Microservices Project** — Spring Boot + ML APIs.  
--**Smart Email Assistant** — Spring Boot + NLP automation. 
-
+<br/>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
 ---
 
 ### Connect with me

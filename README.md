@@ -39,41 +39,24 @@ Beyond coding, my studies provide a **solid foundation in mathematics and system
 
 ---
 
+<img src="./assets/chickenProgramer.gif" width="120" align="left" />
+
 ### 🌟 Featured Projects  
 
-<table>
-  <tr>
-    <!-- Columna izquierda con el pollito -->
-    <td width="180px" align="center" valign="top">
-      <img src="./assets/chickenProgramer.gif" width="140" alt="Chicken Programmer"/>
-    </td>
-    
-    <!-- Columna derecha con los proyectos -->
-    <td valign="top">
-      <h4>🔹 <b>Live & Deployed</b></h4>
-      <p>
-        <a href="https://stack4-us-qakt.vercel.app/about.html"><b>Stack4Us</b></a><br>
-        Fully deployed web app with <b>authentication</b>, <b>Q&A posting</b>, 
-        <b>answer rating</b>, and a <b>leaderboard</b>.  
-        Integrated with the <b>Stack Overflow API</b>.
-      </p>
+**🔹 Live & Deployed**  
+[Stack4Us](https://stack4-us-qakt.vercel.app/about.html)  
+Fully deployed web app with **authentication**, **Q&A posting**,  
+**answer rating**, and a **leaderboard**.  
 
-      <h4>🔹 <b>In Development</b></h4>
-      <ul>
-        <li><b>Habit & Routine Manager</b> — productivity app to track goals and habits.</li>
-        <li><b>Chat Application (MERN Stack)</b> — real-time messaging with authentication and persistent storage.</li>
-      </ul>
+**🔹 In Development**  
+- Habit & Routine Manager — productivity app to track goals and habits.  
+- Chat Application (MERN Stack) — real-time messaging with authentication.  
 
-      <h4>🔹 <b>Coming Soon — AI & Advanced Projects</b></h4>
-      <ul>
-        <li><b>AI Microservices Project</b> — Spring Boot + ML APIs.</li>
-        <li><b>Smart Email Assistant</b> — automation with Spring Boot + NLP.</li>
-        <li><b>AI Content Generator</b> — summaries, blogs, multimedia.</li>
-        <li><b>AI-Powered Chatbot</b> — customer interaction + recommendations.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+**🔹 Coming Soon**  
+- AI Microservices Project — Spring Boot + ML APIs.  
+- Smart Email Assistant — Spring Boot + NLP.  
+- AI Content Generator — summaries, blogs, multimedia.  
+- AI-Powered Chatbot — customer interaction + recommendations.  
 
 
 ---

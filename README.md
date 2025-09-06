@@ -37,11 +37,22 @@ Beyond coding, my studies provide a **solid foundation in mathematics and system
   <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,railway" style="margin: 15px;" />
 </p>
 
-### 📌 Proyectos destacados
-- 🌤️ [App del Clima](https://github.com/tuusuario/app-clima)  
-- 🛒 [E-commerce Riwi](https://github.com/tuusuario/ecommerce-riwi)  
-- 🎮 [Portafolio Undertale Style](https://github.com/tuusuario/undertale-portfolio)  
+### Featured Projects  
 
+#### Live & Deployed  
+- [Login & Security App](https://stack4-us-qakt.vercel.app/about.html)  
+  Web application with full authentication, session handling, and 100% deployment on Vercel.  
+
+#### In Development  
+- Habit & Routine Manager — productivity web app to track goals and habits.  
+- Chat Application (MERN Stack) — real-time messaging with authentication and database integration.    
+ 
+#### Coming Soon (AI & Advanced Projects)  
+- AI Microservices Project (Spring Boot + ML APIs).  
+- Smart Email Assistant (Spring Boot + NLP for automation).  
+- AI Content Generator (summaries, blog drafts, or multimedia creation).  
+- AI-Powered Chatbot for small businesses (customer interaction + recommendations).  
+  
 ---
 
 ### 📫 Conéctate conmigo

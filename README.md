@@ -14,7 +14,7 @@
   - Process analysis & requirements engineering<br>
   - Agile methodologies & SDLC<br>
   - Software quality & decision analysis
-  <img src="./assets/kirby2.gif" 
+  <img src="./assets/kirbi1.gif" 
        alt="kirby" width="110" 
        style="vertical-align:middle; margin-left:16px;">
 </p>

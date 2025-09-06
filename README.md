@@ -48,7 +48,6 @@ Beyond coding, my studies provide a **solid foundation in mathematics and system
 
 ### Connect with me
 
-<p align="center">
-  - <a href="mailto:anmabaar2002@gmail.com">anmabaar2002@gmail.com</a><br>
-  - <a href="https://www.linkedin.com/in/ana-maria-barragan-ariza-67ba3a262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">LinkedIn</a>
-</p>
+[![Email](https://img.shields.io/badge/Email-anmabaar2002@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmabaar2002@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ana%20Maria%20Barragan-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-maria-barragan-ariza-67ba3a262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+

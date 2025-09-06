@@ -18,7 +18,7 @@ I’m also strengthening my skills in **Java**, **React + TypeScript**, and **No
 Beyond coding, my studies provide a **solid foundation in mathematics and systems engineering**, while Riwi brings **hands-on teamwork and agile development experience**. I see myself as a **critical thinker**, focused on **quality, optimization, and innovative solutions**.   
 
 ---
-# 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
+# Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
 
 <br>
 
@@ -39,24 +39,24 @@ Beyond coding, my studies provide a **solid foundation in mathematics and system
 
 ---
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Featured Projects***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">Featured Projects
 
 <img src="./assets/chickenProgramer.gif" alt="chicken" width="300" align="right">
 
 I’m working on projects that explore **fullstack development**, **AI**, and **productivity tools**.  
 
 **Live & Deployed:**  
-[Stack4Us](https://stack4-us-qakt.vercel.app/about.html) — fully deployed web app with **authentication**, **Q&A**, and a **leaderboard**.  
+-[Stack4Us](https://stack4-us-qakt.vercel.app/about.html) — fully deployed web app with **authentication**, **Q&A**, and a **leaderboard**.  
 
 **In Development:**  
-**Habit & Routine Manager** — track goals and habits.  
-**Chat Application (MERN Stack)** — real-time messaging with auth and storage.  
+-**Habit & Routine Manager** — track goals and habits.  
+-**Chat Application (MERN Stack)** — real-time messaging with auth and storage.  
 
 **Coming Soon — AI & Advanced Projects:**  
-**AI Microservices Project** — Spring Boot + ML APIs.  
-**Smart Email Assistant** — Spring Boot + NLP automation.  
-**AI Content Generator** — summaries and multimedia.  
-**AI-Powered Chatbot** — customer interaction + recommendations.  
+-**AI Microservices Project** — Spring Boot + ML APIs.  
+-**Smart Email Assistant** — Spring Boot + NLP automation.  
+-**AI Content Generator** — summaries and multimedia.  
+-**AI-Powered Chatbot** — customer interaction + recommendations.  
 
 ---
 

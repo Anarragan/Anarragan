@@ -20,10 +20,18 @@ Beyond coding, my studies provide a **solid foundation in mathematics and system
 ---
 # 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,python,nodejs,react,typescript,git,github,spring,postgres,docker" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript" style="margin: 15px;" />
 </p>
----
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,nodejs,spring,postgres" style="margin: 15px;" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker" style="margin: 15px;" />
+</p>
+
 
 ### 📌 Proyectos destacados
 - 🌤️ [App del Clima](https://github.com/tuusuario/app-clima)  

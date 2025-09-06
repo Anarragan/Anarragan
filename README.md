@@ -6,44 +6,50 @@
   </a>
 </p>
 
-<p align="left">
-  <strong>🚀 Currently working on</strong><br>
-  - Developing fullstack apps<br>
-  - Learning Spring Boot<br>
-  - Exploring Sequelize & Docker<br>
-  - Process analysis & requirements engineering<br>
-  - Agile methodologies & SDLC<br>
-  - Software quality & decision analysis
-  <img src="./assets/kirbi1.gif" 
-       alt="kirby" width="110" 
-       style="vertical-align:middle; margin-left:16px;">
-</p>
+## 👩‍💻 About Me
 
----
+<div align="left">
 
-### 📚 Currently learning
-- Advanced Java + Spring Boot  
-- Modern front-end with React & TypeScript  
-- Backend with Node.js & Express  
-- Databases (Supabase, PostgreSQL, MySQL)  
-- Docker & containerized applications  
-- Applied statistics & data analysis
+  <div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
----
+  <div>
 
-### 🧩 Beyond coding: Systems Engineering in progress  
+  ### 🚀 Currently working on  
+  - Developing fullstack apps  
+  - Learning Spring Boot  
+  - Exploring Sequelize & Docker  
+  - Process analysis & requirements engineering  
+  - Agile methodologies & SDLC  
+  - Software quality & decision analysis  
 
-I’m not only a developer — I’m a **Systems and Computing Engineering student** building strong foundations in:  
+  ### 📚 Currently learning  
+  - Advanced Java + Spring Boot  
+  - Modern front-end with React & TypeScript  
+  - Backend with Node.js & Express  
+  - Databases (Supabase, PostgreSQL, MySQL)  
+  - Docker & containerized applications  
+  - Applied statistics & data analysis  
 
-- 📐 Advanced mathematics & calculus  
-- 📊 Statistics & data analysis  
-- 🔍 Requirements elicitation & process analysis  
-- ⚙️ Software quality & resource optimization  
-- 🔄 Software Development Life Cycle (SDLC)  
-- 🚀 Agile methodologies applied in Riwi projects  
+  ### 🧩 Beyond coding: Systems Engineering in progress  
+  I’m not only a developer — I’m a **Systems and Computing Engineering student** building strong foundations in:  
 
-🎓 My university studies give me a **deep theoretical base**, while Riwi complements it with **hands-on development and teamwork experience**.  
+  - 📐 Advanced mathematics & calculus  
+  - 📊 Statistics & data analysis  
+  - 🔍 Requirements elicitation & process analysis  
+  - ⚙️ Software quality & resource optimization  
+  - 🔄 Software Development Life Cycle (SDLC)  
+  - 🚀 Agile methodologies applied in Riwi projects  
 
+  🎓 My university studies give me a **deep theoretical base**, while Riwi complements it with **hands-on development and teamwork experience**.  
+
+  </div>
+
+  <div>
+    <img src="./assets/kirbi1.gif" alt="kirby" width="200" style="margin-left: 30px;">
+  </div>
+
+  </div>
+</div>
 ---
 
 ### 🛠️ Tecnologías y herramientas

@@ -22,12 +22,12 @@ Beyond coding, my studies provide a **solid foundation in mathematics and system
 
 <p align="center">
   <!-- Todos los iconos en una línea -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,npm,java,cpp,python,nodejs,spring,postgres,git,github,docker,vercel,railway" style="margin: 10px;" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,npm,java,cpp,python,nodejs,spring,postgres,git,github,docker,vercel,railway" style="margin: 10px;" />
 </p>
 
 ---
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">Featured Projects
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" align="center">Featured Projects
 
 <img src="./assets/chickenProgramer.gif" alt="chicken" width="300" align="right">
 
@@ -42,12 +42,13 @@ I’m working on projects that explore **fullstack development**, **AI**, and **
 
 ### Coming Soon — AI & Advanced Projects:  
 -**AI Microservices Project** — Spring Boot + ML APIs.  
--**Smart Email Assistant** — Spring Boot + NLP automation.  
--**AI Content Generator** — summaries and multimedia.  
--**AI-Powered Chatbot** — customer interaction + recommendations.  
+-**Smart Email Assistant** — Spring Boot + NLP automation. 
 
 ---
 
-### 📫 Conéctate conmigo
-- 📧 anabarragan@email.com  
-- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)  
+### Connect with me
+
+<p align="center">
+  - <a href="mailto:anmabaar2002@gmail.com">anmabaar2002@gmail.com</a><br>
+  - <a href="https://www.linkedin.com/in/ana-maria-barragan-ariza-67ba3a262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">LinkedIn</a>
+</p>

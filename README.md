@@ -18,10 +18,15 @@ I’m also strengthening my skills in **Java**, **React + TypeScript**, and **No
 Beyond coding, my studies provide a **solid foundation in mathematics and systems engineering**, while Riwi brings **hands-on teamwork and agile development experience**. I see myself as a **critical thinker**, focused on **quality, optimization, and innovative solutions**.   
 
 ---
-
 ### 🛠️ Tecnologías y herramientas
 <p align="left">
+  <!-- Skillicons -->
   <img src="https://skillicons.dev/icons?i=html,css,js,python,java,nodejs,git,github,springboot,postgres" />
+  
+  <!-- Extra icons -->
+  <img src="https://www.r-project.org/logo/Rlogo.png" width="40" alt="R" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" alt="Matlab" />
+  <img src="https://www.simul8.com/favicon.ico" width="40" alt="Simul8" />
 </p>
 
 ---
